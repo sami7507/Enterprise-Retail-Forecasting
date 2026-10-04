@@ -272,7 +272,7 @@ docker-compose up --build
 **Md Sami Ahmad**
 B.Tech CSE (Data Science & ML)
 
-[GitHub](https://github.com/samikhan07h)
+[GitHub](https://github.com/sami7507)
 
 ---
 
